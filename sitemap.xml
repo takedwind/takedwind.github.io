@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://qinyong.site/post/2022-03-15-Hugo%E5%AE%8C%E6%95%B4%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2022-03-15T11:30:30+08:00</lastmod>
+  </url><url>
+    <loc>https://qinyong.site/post/</loc>
+    <lastmod>2022-03-15T11:30:30+08:00</lastmod>
+  </url><url>
+    <loc>https://qinyong.site/</loc>
+    <lastmod>2022-03-15T11:30:30+08:00</lastmod>
+  </url><url>
     <loc>https://qinyong.site/categories/</loc>
     <lastmod>2019-12-18T21:55:00+08:00</lastmod>
   </url><url>
@@ -14,13 +23,7 @@
     <loc>https://qinyong.site/2019/12/18/golang-gin-query-parameters-array-map.html</loc>
     <lastmod>2019-12-18T21:55:00+08:00</lastmod>
   </url><url>
-    <loc>https://qinyong.site/post/</loc>
-    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
-  </url><url>
     <loc>https://qinyong.site/tags/</loc>
-    <lastmod>2019-12-18T21:55:00+08:00</lastmod>
-  </url><url>
-    <loc>https://qinyong.site/</loc>
     <lastmod>2019-12-18T21:55:00+08:00</lastmod>
   </url><url>
     <loc>https://qinyong.site/post/2019-12-13-golang-gin-parameters-in-path/</loc>
