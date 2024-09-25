@@ -1,7 +1,7 @@
 Package: com.nan.3dbadgeclear
 Version: 1.4.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate
 Conflicts: com.isklikas.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
 Replaces: com.isklikas.3dbadgeclear
@@ -21,7 +21,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.3dbadgecle
 Package: com.nan.a-bypass
 Version: 1.0.4
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, preferenceloader, applist
 Filename: debs/com.nan.a-bypass_1.0.4_iphoneos-arm.deb
 Size: 49122
@@ -40,7 +40,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.a-bypass/j
 Package: com.nan.accent
 Version: 1.3.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, ws.hbang.common, applist
 Conflicts: com.ivanc.accent
 Provides: com.ivanc.accent
@@ -64,7 +64,7 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Package: com.nan.aential
 Version: 0.1.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Filename: debs/com.nan.aential_0.1.0_iphoneos-arm.deb
 Size: 1785158
 MD5sum: 11609f6d95ed8a183480ad78563ebe06
@@ -72,7 +72,7 @@ SHA1: b91e64defbe95846cb459f374195b578ec7915aa
 SHA256: e728a5fb7dd1808af2187550e9663a75f65ba759f273c715e682b4f602612f5b
 Section: Themes
 Description: 基于 Sential 修改的主题
-Author: zhaonan
+Author: takedwind
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.theme/aential/image.png
 Name: Aential
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.theme/aential/js.json
@@ -80,7 +80,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.theme/aent
 Package: com.nan.alipaysteps
 Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: debs/com.nan.alipaysteps_1.1_iphoneos-arm.deb
 Size: 51500
@@ -97,7 +97,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.alipaystep
 Package: com.nan.appdatamanager
 Version: 1.5.1-10
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Conflicts: com.tigisoftware.appdatamanager
 Replaces: com.tigisoftware.appdatamanager
 Provides: com.tigisoftware.appdatamanager
@@ -116,7 +116,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appdataman
 Package: com.nan.apppercent
 Version: 2.0.2
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, net.limneos.libbulletin
 Filename: debs/com.nan.apppercent_2.0.2_iphoneos-arm.deb
 Size: 17396
@@ -131,7 +131,7 @@ Name: App Percent
 Package: com.nan.appstoreplusplus
 Version: 0.9.7
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: netskao.appadmin, com.nan.appadmin, netskao.appstoreplusplus, com.unlimapps.uaupdatetools, com.cokepokes.appstoreplusplus
 Filename: debs/com.nan.appstoreplusplus_0.9.7_iphoneos-arm.deb
@@ -150,7 +150,7 @@ Name: AppStore++
 Package: com.nan.appstoreplusplus
 Version: 0.9.8-4
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
 Replaces: com.cokepokes.appstoreplusplus
@@ -172,7 +172,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstorepl
 Package: com.nan.appstoreplusplus
 Version: 0.9.8-6
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
 Replaces: com.cokepokes.appstoreplusplus
@@ -194,7 +194,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstorepl
 Package: com.nan.appstoreplusplus
 Version: 0.9.8-7
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
 Replaces: com.cokepokes.appstoreplusplus
@@ -216,7 +216,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstorepl
 Package: com.nan.awemeautoplay
 Version: 1.0-1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate
 Filename: debs/com.nan.awemeautoplay_1.0-1_iphoneos-arm.deb
 Size: 20406
@@ -234,7 +234,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemeautop
 Package: com.nan.awemeautoplay
 Version: 1.2-2
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: netskao.awemehack
 Filename: debs/com.nan.awemeautoplay_1.2-2_iphoneos-arm.deb
@@ -253,7 +253,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemeautop
 Package: com.nan.awemepurification
 Version: 1.2-3
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: netskao.awemehack
 Filename: debs/com.nan.awemepurification_1.2-3_iphoneos-arm.deb
@@ -272,7 +272,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurif
 Package: com.nan.awemepurification
 Version: 1.3-1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: netskao.awemehack
 Filename: debs/com.nan.awemepurification_1.3-1_iphoneos-arm.deb
@@ -291,7 +291,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurif
 Package: com.nan.awemepurification
 Version: 1.3-2
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: netskao.awemehack
 Filename: debs/com.nan.awemepurification_1.3-2_iphoneos-arm.deb
@@ -310,7 +310,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurif
 Package: com.nan.backgrounderaction12
 Version: 0.0.8
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: debs/com.nan.backgrounderaction12_0.0.8_iphoneos-arm.deb
 Size: 8448
@@ -325,7 +325,7 @@ Name: BackgrounderAction for CC
 Package: com.nan.backgrounderaction12
 Version: 0.1.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: debs/com.nan.backgrounderaction12_0.1.0_iphoneos-arm.deb
 Size: 20420
@@ -343,7 +343,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.background
 Package: com.nan.backgrounderaction13
 Version: 0.1.3
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: debs/com.nan.backgrounderaction13_0.1.3_iphoneos-arm.deb
 Size: 20918
@@ -361,7 +361,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.background
 Package: com.nan.betterccxi
 Version: 1.6.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware(>=11.0), mobilesubstrate, com.opa334.ccsupport, preferenceloader
 Conflicts: com.atwiiks.betterccxiweather, com.atwiiks.betterccxi
 Filename: debs/com.nan.betterccxi_1.6.0_iphoneos-arm.deb
@@ -379,7 +379,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.betterccxi
 Package: com.nan.betterccxi-150
 Version: 1.5.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware(>=11.0), mobilesubstrate, com.opa334.ccsupport, preferenceloader
 Conflicts: com.atwiiks.betterccxiweather, com.atwiiks.betterccxi
 Filename: debs/com.nan.betterccxi-150_1.5.0_iphoneos-arm.deb
@@ -397,7 +397,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.betterccxi
 Package: com.nan.bfdecrypt
 Version: 1.3.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware(>=11.0), preferenceloader, applist
 Filename: debs/com.nan.bfdecrypt_1.3.1_iphoneos-arm.deb
 Size: 83416
@@ -413,7 +413,7 @@ Name: bfdecrypt
 Package: com.nan.bolders
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, firmware (>= 9.0), com.chpwn.iconsupport
 Filename: debs/com.nan.bolders_1.0.1_iphoneos-arm.deb
 Size: 18832
@@ -430,7 +430,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bolders/js
 Package: com.nan.bootlogo.checkra1n
 Version: 0.1.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Filename: debs/com.nan.bootlogo.checkra1n_0.1.0_iphoneos-arm.deb
 Size: 141922
 MD5sum: 953ff40d0b5eecbd1d8543c1a211c7c3
@@ -438,7 +438,7 @@ SHA1: 08745aed8a2ca7e60cc53a275b60e9943793fa58
 SHA256: 82927b2db32deef7c9bc4392e9a272151f65b2cdc06960087ad7d04d04d6b122
 Section: Themes (Bootlogos)
 Description: 自定义启动 Logo 为 checkra1n 微标, 感谢 @Flipp3rrr 。
-Author: zhaonan
+Author: takedwind
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/image.png
 Name: checkra1n-Bootlogo
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/js.json
@@ -446,7 +446,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bootlogo.c
 Package: com.nan.bootlogo.checkra1n
 Version: 0.1.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Filename: debs/com.nan.bootlogo.checkra1n_0.1.1_iphoneos-arm.deb
 Size: 371786
 MD5sum: 2ce3e79a1ed71f46c451c8e111553e34
@@ -454,7 +454,7 @@ SHA1: ba830c0e817b506bcaf90ad18656983e0b526996
 SHA256: 38270d90ab764894a350dfc99a054a3bbba7739d6917b9629074237ba83e6445
 Section: Themes (Bootlogos)
 Description: 自定义启动 Logo 为 checkra1n 微标, 感谢 @Flipp3rrr 。
-Author: zhaonan
+Author: takedwind
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/image.png
 Name: checkra1n-Bootlogo
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/js.json
@@ -462,7 +462,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bootlogo.c
 Package: com.nan.bounceit
 Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, firmware(>=11.0)
 Conflicts: com.jakeashacks.bounceit
 Replaces: com.jakeashacks.bounceit
@@ -481,7 +481,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bounceit/j
 Package: com.nan.bounceit
 Version: 1.0.3
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, firmware(>=11.0)
 Conflicts: com.jakeashacks.bounceit
 Replaces: com.jakeashacks.bounceit
@@ -500,7 +500,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bounceit/j
 Package: com.nan.bounceit
 Version: 1.0.4
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, firmware(>=11.0)
 Conflicts: com.jakeashacks.bounceit
 Replaces: com.jakeashacks.bounceit
@@ -519,7 +519,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bounceit/j
 Package: com.nan.cocoatop64bit
 Version: 2.0.2-1+debug
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 9.0)
 Filename: debs/com.nan.cocoatop64bit_2.0.2-1+debug_iphoneos-arm.deb
 Size: 210590
@@ -536,7 +536,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cocoatop/j
 Package: com.nan.colorizeios
 Version: 0.0.1-47+debug
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware(<=12.9), mobilesubstrate
 Filename: debs/com.nan.colorizeios_0.0.1-47+debug_iphoneos-arm.deb
 Size: 118854
@@ -553,7 +553,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.colorizeio
 Package: com.nan.colorsios
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware(>=13.0), mobilesubstrate
 Filename: debs/com.nan.colorsios_1.0.1_iphoneos-arm.deb
 Size: 164234
@@ -570,7 +570,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.colorsios/
 Package: com.nan.conditionalwifi4
 Version: 1.0.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
 Filename: debs/com.nan.conditionalwifi4_1.0.0_iphoneos-arm.deb
 Size: 11716
@@ -585,7 +585,7 @@ Name: ConditionalWiFi4
 Package: com.nan.cracktool2
 Version: 2.3~beta9
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils
 Filename: debs/com.nan.cracktool2_2.3~beta9_iphoneos-arm.deb
 Size: 432260
@@ -601,7 +601,7 @@ Name: CrackTool2
 Package: com.nan.cracktool3
 Version: 3.0~beta11
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
 Conflicts: com.julioverne.cracktool3
 Provides: com.julioverne.cracktool3
@@ -622,7 +622,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cracktool/
 Package: com.nan.cracktool4
 Version: 4.0~beta9c
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
 Conflicts: com.julioverne.cracktool4
 Provides: com.julioverne.cracktool4
@@ -665,7 +665,7 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Package: com.nan.cy+cpu.arm64
 Version: 0.1.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Conflicts: cy+cpu.arm64
 Replaces: cy+cpu.arm64
 Provides: cy+cpu.arm64
@@ -676,13 +676,13 @@ SHA1: fa2c1efa12f9b57c99999689b8df4c9a9c07f269
 SHA256: 80e9e1f950140f39f0f7e3cfb7deffa37b0c18d67650cc06494edd47f7dcf7f4
 Section: System
 Description: 解决 cy+cpu.arm64 虚拟依赖报错
-Author: zhaonan
+Author: takedwind
 Name: cy+cpu.arm64
 
 Package: com.nan.cycripter
 Version: 0.1.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate (>= 0.9.6300), cycript
 Filename: debs/com.nan.cycripter_0.1.0_iphoneos-arm.deb
 Size: 25300
@@ -697,7 +697,7 @@ Name: Cycripter
 Package: com.nan.cydown
 Version: 7.0.6
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.cydown
 Provides: com.julioverne.cydown
@@ -718,7 +718,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/js.
 Package: com.nan.cydown-697
 Version: 6.9.7
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.cydown
 Provides: com.julioverne.cydown
@@ -739,7 +739,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/js_
 Package: com.nan.cydown.zh-hans
 Version: 0.1.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: com.julioverne.cydown
 Conflicts: com.nan.cydown
 Replaces: com.julioverne.cydown
@@ -750,7 +750,7 @@ SHA1: 5514b2b732ad57fafc022f7a3e0e95c20bfa2739
 SHA256: f9f31cb5deeca9286c111d96f39b64091407131bb11c7145a2f273d02d987118
 Section: 汉化
 Description: 为 CyDown 提供简体中文
-Author: zhaonan
+Author: takedwind
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/image.png
 Name: zh-hans for CyDown
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/js_zh_hans.json
@@ -758,7 +758,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/js_
 Package: com.nan.darkshot
 Version: 0.1.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, firmware (>= 13.0)
 Conflicts: xyz.skitty.darkshot
 Provides: xyz.skitty.darkshot
@@ -778,7 +778,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.darkshot/j
 Package: com.nan.darkshot.zh-Hans
 Version: 0.1.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: xyz.skitty.darkshot
 Conflicts: com.nan.darkshot
 Filename: debs/com.nan.darkshot.zh-Hans_0.1.0_iphoneos-arm.deb
@@ -788,7 +788,7 @@ SHA1: ae1ffc13e0dceb670166010f9ee99afb4d89c73a
 SHA256: 8441f88ffeb28d5b43e0385539d33a1a857035f92ea3cbb4f7d1fccd567d3682
 Section: 汉化
 Description: 为 DarkShot 提供简体中文
-Author: zhaonan
+Author: takedwind
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.darkshot/image.png
 Name: zh-hans for DarkShot
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.darkshot/js_zh_Hans.json
@@ -796,7 +796,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.darkshot/j
 Package: com.nan.datameter
 Version: 1.4-3
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Installed-Size: 1212
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Filename: debs/com.nan.datameter_1.4-3_iphoneos-arm.deb
@@ -818,7 +818,7 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Package: com.nan.deleteforever
 Version: 0.0.1-57
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
 Filename: debs/com.nan.deleteforever_0.0.1-57_iphoneos-arm.deb
 Size: 250524
@@ -833,7 +833,7 @@ Name: DeleteForever
 Package: com.nan.dimentio
 Version: 0.5.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Conflicts: com.michael.dimentio
 Provides: com.michael.dimentio
 Filename: debs/com.nan.dimentio_0.5.0_iphoneos-arm.deb
@@ -850,7 +850,7 @@ Name: dimentio
 Package: com.nan.dimentio
 Version: 0.5.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Conflicts: com.michael.dimentio
 Provides: com.michael.dimentio
 Filename: debs/com.nan.dimentio_0.5.1_iphoneos-arm.deb
@@ -867,7 +867,7 @@ Name: dimentio
 Package: com.nan.doubletaplock
 Version: 0.0.3
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.nan.doubletaplock_0.0.3_iphoneos-arm.deb
 Size: 54860
@@ -882,7 +882,7 @@ Name: DoubleTapLock
 Package: com.nan.downloadbar13
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate
 Conflicts: com.shepgoba.downloadbar13
 Provides: com.shepgoba.downloadbar13
@@ -901,7 +901,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.downloadba
 Package: com.nan.duo
 Version: 1.0.5
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.nan.duo_1.0.5_iphoneos-arm.deb
 Size: 291812
@@ -918,7 +918,7 @@ Name: Duo
 Package: com.nan.elegantsettings
 Version: 1.2.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.nan.elegantsettings_1.2.0_iphoneos-arm.deb
 Size: 40368
@@ -940,7 +940,7 @@ Name: Elegant Settings
 Package: com.nan.elegantsettings
 Version: 1.2.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.nan.elegantsettings_1.2.1_iphoneos-arm.deb
 Size: 34052
@@ -962,7 +962,7 @@ Name: Elegant Settings
 Package: com.nan.filza
 Version: 3.7.3-16
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza, com.nan.filza64bit
 Replaces: com.tigisoftware.filza
@@ -982,7 +982,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js.j
 Package: com.nan.filza
 Version: 3.7.4-12
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza, com.nan.filza64bit
 Replaces: com.tigisoftware.filza
@@ -1002,7 +1002,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js.j
 Package: com.nan.filza
 Version: 3.7.4-4
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza, com.nan.filza64bit
 Replaces: com.tigisoftware.filza
@@ -1022,7 +1022,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js.j
 Package: com.nan.filza64bit
 Version: 3.7.3-16
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza64bit, com.nan.filza
 Replaces: com.tigisoftware.filza64bit
@@ -1042,7 +1042,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js_6
 Package: com.nan.filza64bit
 Version: 3.7.4-12
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza64bit, com.nan.filza
 Replaces: com.tigisoftware.filza64bit
@@ -1062,7 +1062,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js_6
 Package: com.nan.filza64bit
 Version: 3.7.4-4
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza64bit, com.nan.filza
 Replaces: com.tigisoftware.filza64bit
@@ -1082,7 +1082,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js_6
 Package: com.nan.ft
 Version: 0.1.6
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 10.3), com.bingner.snappy, diskdev-cmds
 Filename: debs/com.nan.ft_0.1.6_iphoneos-arm.deb
 Size: 2152
@@ -1091,7 +1091,7 @@ SHA1: 8cf3425c1275f3aa3204e912706de13fc9e9486c
 SHA256: ae5b469d66925b56eeaadbf2a6e081ed36a0fdce5e1c4d97493b160116237a40
 Section: Terminal_Support
 Description: 运行 ft 即可恢复默认字体。(只要默认快照还在)
-Author: zhaonan <Invalidunit@icloud.com>
+Author: takedwind <Invalidunit@icloud.com>
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/image.png
 Name: ft
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/js.json
@@ -1099,7 +1099,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/js.json
 Package: com.nan.goodwifi
 Version: 0.0~beta4
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.nan.goodwifi_0.0~beta4_iphoneos-arm.deb
 Size: 54986
@@ -1114,7 +1114,7 @@ Name: GoodWiFi
 Package: com.nan.icleanerpro
 Version: 7.8.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, com.nan.icleanerpro-crack
 Replaces: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, com.nan.icleanerpro-crack
@@ -1135,7 +1135,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.icleanerpr
 Package: com.nan.icleanerpro-crack
 Version: 7.8.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, com.nan.icleanerpro
 Replaces: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, com.nan.icleanerpro
@@ -1156,7 +1156,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.icleanerpr
 Package: com.nan.ioshelper12
 Version: 1.4.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: debs/com.nan.ioshelper12_1.4.0_iphoneos-arm.deb
 Size: 97344
@@ -1171,7 +1171,7 @@ Name: iOS Helper 12
 Package: com.nan.ioshelper12
 Version: 1.4.2
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: debs/com.nan.ioshelper12_1.4.2_iphoneos-arm.deb
 Size: 99328
@@ -1186,7 +1186,7 @@ Name: iOS Helper 12
 Package: com.nan.ioshelper122
 Version: 2.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Filename: debs/com.nan.ioshelper122_2.0_iphoneos-arm.deb
 Size: 139928
@@ -1201,7 +1201,7 @@ Name: iOS Helper 12
 Package: com.nan.kalm
 Version: 1.2.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum, hi.my.name.is.ubik.kalm
 Filename: debs/com.nan.kalm_1.2.1_iphoneos-arm.deb
@@ -1220,7 +1220,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js.js
 Package: com.nan.kalm
 Version: 1.2.2
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum, hi.my.name.is.ubik.kalm
 Filename: debs/com.nan.kalm_1.2.2_iphoneos-arm.deb
@@ -1239,7 +1239,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js.js
 Package: com.nan.kalm.zh-Hans
 Version: 0.1.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: hi.my.name.is.ubik.kalm
 Conflicts: com.nan.kalm
 Filename: debs/com.nan.kalm.zh-Hans_0.1.0_iphoneos-arm.deb
@@ -1249,7 +1249,7 @@ SHA1: eefeadd8e8051dca8fd9a2e0423cde154609ad93
 SHA256: 92c40f70295c03f82342c0c14f6d0a29242814fb13e22fa7a97e9a874cd3fa16
 Section: 汉化
 Description: 为 Kalm 提供简体中文
-Author: zhaonan
+Author: takedwind
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/image.png
 Name: zh-hans for Kalm
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js_zh_Hans.json
@@ -1257,7 +1257,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js_zh
 Package: com.nan.kalm.zh-Hans
 Version: 0.1.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: hi.my.name.is.ubik.kalm
 Conflicts: com.nan.kalm
 Filename: debs/com.nan.kalm.zh-Hans_0.1.1_iphoneos-arm.deb
@@ -1267,7 +1267,7 @@ SHA1: 5198e4820e1692225e8d5a1c0a9f75e99e6d2e81
 SHA256: 6eb9d9ee40f7c71249abb094b86467f103832840ffccb557e3cdf53ccafc794a
 Section: 汉化
 Description: 为 Kalm 提供简体中文
-Author: zhaonan
+Author: takedwind
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/image.png
 Name: zh-hans for Kalm
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js_zh_Hans.json
@@ -1275,7 +1275,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js_zh
 Package: com.nan.libertylite
 Version: 0.2.11
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, applist
 Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
 Filename: debs/com.nan.libertylite_0.2.11_iphoneos-arm.deb
@@ -1331,7 +1331,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/j
 Package: com.nan.little11.zh-Hans
 Version: 0.1.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: com.ryannair05.little11
 Conflicts: com.nan.little11
 Filename: debs/com.nan.little11.zh-Hans_0.1.1_iphoneos-arm.deb
@@ -1341,7 +1341,7 @@ SHA1: b4ce079390083997c450f9d4ac2606bb9b0f281a
 SHA256: 00f3e5c689cb3f3da93c98fb6641dd5b442a82b5c885ace74345b3164bc5a50c
 Section: 汉化
 Description: 为 Little11 提供简体中文
-Author: zhaonan
+Author: takedwind
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
 Name: zh-hans for Little11
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js_zh_Hans.json
@@ -1349,7 +1349,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/j
 Package: com.nan.localhostssh
 Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, firmware (>= 11.0), sed
 Filename: debs/com.nan.localhostssh_0.0.1_iphoneos-arm.deb
 Size: 940
@@ -1364,7 +1364,7 @@ Name: Local SSH
 Package: com.nan.localhostssh
 Version: 0.1.3
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, firmware (>= 11.0), sed, com.bingner.plutil, openssh
 Filename: debs/com.nan.localhostssh_0.1.3_iphoneos-arm.deb
 Size: 1026
@@ -1373,7 +1373,7 @@ SHA1: 71f05c0e947cc999419ebc9e0284c079095b073f
 SHA256: a8b4d348d87693ebfde0999d514e9a9b06d9b3dfa15ec91ae29f7f3de8c746c8
 Section: System
 Description: 为 iOS 本地主机 SSH 访问启用 2222 端口
-Author: zhaonan
+Author: takedwind
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/image.png
 Name: Local SSH
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/js.json
@@ -1381,7 +1381,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.localhosts
 Package: com.nan.localhostssh10
 Version: 0.1.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, firmware (<= 10.9), sed, com.ericasadun.utilities, openssh
 Filename: debs/com.nan.localhostssh10_0.1.0_iphoneos-arm.deb
 Size: 1050
@@ -1390,7 +1390,7 @@ SHA1: 3bae807598566943c22e7d11b8408312ca0d5ca6
 SHA256: bdc716778f4676f2ba2b80c7e0afbcc18c5aff3f4e3b84590d1ec666b69e974e
 Section: System
 Description: 为 iOS 本地主机 SSH 访问启用 2222 端口
-Author: zhaonan
+Author: takedwind
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/image.png
 Name: Local SSH (7-10)
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/js_10.json
@@ -1398,7 +1398,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.localhosts
 Package: com.nan.localiapstore
 Version: 1.4-4
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
 Filename: debs/com.nan.localiapstore_1.4-4_iphoneos-arm.deb
 Size: 71024
@@ -1415,7 +1415,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.localiapst
 Package: com.nan.nodndbanner
 Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 11.0), mobilesubstrate
 Filename: debs/com.nan.nodndbanner_0.0.1_iphoneos-arm.deb
 Size: 3630
@@ -1432,7 +1432,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.nodndbanne
 Package: com.nan.openccmm
 Version: 0.1.2
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: com.bingner.plutil , firmware (>= 11.0) , firmware (<= 13.9)
 Filename: debs/com.nan.openccmm_0.1.2_iphoneos-arm.deb
 Size: 984
@@ -1441,7 +1441,7 @@ SHA1: ce74297e1611432a65e75e99879eaa824e518366
 SHA256: 81ae21c2f1cb0eeae7b0d4c553737b77eaf6bfed933606d8d9d3931f8b1437ab
 Section: System
 Description: 激活原生 iPhone 控制中心静音模块，安装后未激活越狱也生效
-Author: zhaonan
+Author: takedwind
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.openccmm/image.png
 Name: Activation CC MuteModule
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.openccmm/js.json
@@ -1449,7 +1449,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.openccmm/j
 Package: com.nan.pencilchargingindicator
 Version: 1.2~b5
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate
 Filename: debs/com.nan.pencilchargingindicator_1.2~b5_iphoneos-arm.deb
 Size: 387172
@@ -1464,7 +1464,7 @@ Name: PencilChargingIndicator
 Package: com.nan.pencilchargingindicator
 Version: 1.2~b6
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate
 Filename: debs/com.nan.pencilchargingindicator_1.2~b6_iphoneos-arm.deb
 Size: 376856
@@ -1479,7 +1479,7 @@ Name: PencilChargingIndicator
 Package: com.nan.pencilchargingindicator
 Version: 1.2~b7
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate
 Filename: debs/com.nan.pencilchargingindicator_1.2~b7_iphoneos-arm.deb
 Size: 508838
@@ -1497,7 +1497,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.pencilchar
 Package: com.nan.plutil
 Version: 0.2.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>=2.0)
 Conflicts: com.ericasadun.utilities, com.bingner.plutil
 Provides: com.bingner.plutil
@@ -1516,7 +1516,7 @@ Name: plutil
 Package: com.nan.pulloverpro
 Version: 1.7
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
 Conflicts: com.c1d3r.pulloverpro
 Provides: com.c1d3r.pulloverpro
@@ -1538,7 +1538,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpr
 Package: com.nan.pulloverpro
 Version: 2.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
 Conflicts: com.c1d3r.pulloverpro
 Provides: com.c1d3r.pulloverpro
@@ -1560,7 +1560,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpr
 Package: com.nan.pulloverpro.zh-Hans
 Version: 0.1.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: com.c1d3r.pulloverpro
 Conflicts: com.nan.pulloverpro, com.nan.pulloverpro-beta
 Filename: debs/com.nan.pulloverpro.zh-Hans_0.1.0_iphoneos-arm.deb
@@ -1570,7 +1570,7 @@ SHA1: fbea254d06477613391b99a79d566cce077ee2b5
 SHA256: b33529e94e921e3cf035a355b0ae9b2b7b382c61c786441421b6995c0a38d642
 Section: 汉化
 Description: 为 PullOver Pro 提供简体中文
-Author: zhaonan
+Author: takedwind
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpro/image.png
 Name: zh-hans for PullOver Pro
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpro/js_zh_Hans.json
@@ -1578,7 +1578,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpr
 Package: com.nan.qqanitirecallhook
 Version: 0.1-1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate
 Filename: debs/com.nan.qqanitirecallhook_0.1-1_iphoneos-arm.deb
 Size: 14464
@@ -1593,7 +1593,7 @@ Name: QQanitiRecallHook
 Package: com.nan.qqanitirecallhook
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate
 Filename: debs/com.nan.qqanitirecallhook_1.2_iphoneos-arm.deb
 Size: 26796
@@ -1608,7 +1608,7 @@ Name: QQanitiRecallHook
 Package: com.nan.qqprocrack
 Version: 2.1-1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate
 Filename: debs/com.nan.qqprocrack_2.1-1_iphoneos-arm.deb
 Size: 175444
@@ -1625,7 +1625,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqprocrack
 Package: com.nan.qqpurification
 Version: 1.1-3
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, firmware (>= 9.0)
 Filename: debs/com.nan.qqpurification_1.1-3_iphoneos-arm.deb
 Size: 261714
@@ -1642,7 +1642,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurifica
 Package: com.nan.qqpurification
 Version: 1.1-5
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, firmware (>= 9.0)
 Filename: debs/com.nan.qqpurification_1.1-5_iphoneos-arm.deb
 Size: 262566
@@ -1659,7 +1659,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurifica
 Package: com.nan.respring.xr
 Version: 0.1.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Filename: debs/com.nan.respring.xr_0.1.1_iphoneos-arm.deb
 Size: 720588
 MD5sum: 54238d7aa369031fa8ca04af967df228
@@ -1667,7 +1667,7 @@ SHA1: c2bcc7de615b8c0eb911db93537eb8fe59251bc5
 SHA256: b985b2b39e13a8760a8614bdfd6709c1d4227338706b3fc5756436fd9a280a24
 Section: Themes (Respring)
 Description: 漂亮的 XR 注销动画
-Author: zhaonan
+Author: takedwind
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.respring.xr/image.png
 Name: iPhone XR 注销图标
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.respring.xr/js.json
@@ -1675,7 +1675,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.respring.x
 Package: com.nan.rootfs
 Version: 0.1.3
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: diskdev-cmds , com.bingner.snappy , firmware (>=11.0)
 Filename: debs/com.nan.rootfs_0.1.3_iphoneos-arm.deb
 Size: 14448
@@ -1687,7 +1687,7 @@ Description: rootfs && 重建缓存
  恢复到未越狱状态并清空越狱 App 图标缓存
  SSH 卸载可撤销
  SSH 运行 urootfs 也可以撤销
-Author: zhaonan
+Author: takedwind
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/image.png
 Name: rootfs
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/js.json
@@ -1695,7 +1695,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/js.
 Package: com.nan.setwallpaper
 Version: 0.1.2
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 13.0)
 Filename: debs/com.nan.setwallpaper_0.1.2_iphoneos-arm.deb
 Size: 136096
@@ -1712,7 +1712,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.setwallpap
 Package: com.nan.setwallpaper
 Version: 0.1.3
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 13.0)
 Filename: debs/com.nan.setwallpaper_0.1.3_iphoneos-arm.deb
 Size: 136280
@@ -1729,7 +1729,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.setwallpap
 Package: com.nan.showtouch
 Version: 1.0.4
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: debs/com.nan.showtouch_1.0.4_iphoneos-arm.deb
 Size: 106590
@@ -1746,7 +1746,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.showtouch/
 Package: com.nan.shuffle
 Version: 1.0.4
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
 Depends: com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
@@ -1764,7 +1764,7 @@ Name: Shuffle
 Package: com.nan.shutup
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate
 Filename: debs/com.nan.shutup_1.0.1_iphoneos-arm.deb
 Size: 3682
@@ -1781,7 +1781,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.shutup/js.
 Package: com.nan.shynotifications
 Version: 0.0.1-2
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate
 Filename: debs/com.nan.shynotifications_0.0.1-2_iphoneos-arm.deb
 Size: 2776
@@ -1796,7 +1796,7 @@ Name: ShyNotifications
 Package: com.nan.sileo.zh-Hans
 Version: 0.1.5
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: org.coolstar.sileo
 Filename: debs/com.nan.sileo.zh-Hans_0.1.5_iphoneos-arm.deb
 Size: 7056
@@ -1805,7 +1805,7 @@ SHA1: 170a93473048d910415fd35d1b8c75cb74c12a07
 SHA256: cc7eaf5202f041a2dbdcd7596da99f52fbcd7d6d0956d4b7cb08a6000fd5df6e
 Section: 汉化
 Description: 为 Sileo 提供简体中文
-Author: zhaonan
+Author: takedwind
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/image.png
 Name: zh-hans for Sileo
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/js.json
@@ -1813,7 +1813,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-H
 Package: com.nan.sileo.zh-Hans
 Version: 0.2.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: org.coolstar.sileo
 Filename: debs/com.nan.sileo.zh-Hans_0.2.0_iphoneos-arm.deb
 Size: 7980
@@ -1822,7 +1822,7 @@ SHA1: c67b5e0c20fc3fa82d35d75548a3cc2d3f707c8f
 SHA256: 8ef44d1e61e403cf8584b94ba00f7094f88229498fe3e13ffc2c84cae124e678
 Section: 汉化
 Description: 为 Sileo 提供简体中文
-Author: zhaonan
+Author: takedwind
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/image.png
 Name: zh-hans for Sileo
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/js.json
@@ -1830,7 +1830,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-H
 Package: com.nan.sileopurification
 Version: 1.1-1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 11.0), mobilesubstrate, org.coolstar.sileo
 Filename: debs/com.nan.sileopurification_1.1-1_iphoneos-arm.deb
 Size: 59702
@@ -1847,7 +1847,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileopurif
 Package: com.nan.sleepanywhere
 Version: 1.0.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate
 Filename: debs/com.nan.sleepanywhere_1.0.0_iphoneos-arm.deb
 Size: 25404
@@ -1864,7 +1864,7 @@ Name: SleepAnywhere
 Package: com.nan.slimvolumehud
 Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate
 Filename: debs/com.nan.slimvolumehud_0.0.1_iphoneos-arm.deb
 Size: 3810
@@ -1879,7 +1879,7 @@ Name: SlimVolumeHUD
 Package: com.nan.snappy
 Version: 1.3.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 10.3)
 Conflicts: com.bingner.snappy
 Provides: com.bingner.snappy
@@ -1897,7 +1897,7 @@ Name: Snappy
 Package: com.nan.sutuplus
 Version: 2.8.3-1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: org.thebigboss.sutuplus
 Provides: org.thebigboss.sutuplus
@@ -1920,7 +1920,7 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Package: com.nan.swipeselection
 Version: 1.5.6
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate
 Filename: debs/com.nan.swipeselection_1.5.6_iphoneos-arm.deb
 Size: 80048
@@ -1935,7 +1935,7 @@ Name: SwipeSelection
 Package: com.nan.systeminfo
 Version: 2.3.2-6+debug
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate
 Filename: debs/com.nan.systeminfo_2.3.2-6+debug_iphoneos-arm.deb
 Size: 568884
@@ -1952,7 +1952,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.systeminfo
 Package: com.nan.systempurification
 Version: 1.4-6
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, preferenceloader, firmware (<= 12.9)
 Conflicts: netskao.systempurificationx, com.nan.systempurificationx
 Provides: netskao.systempurification
@@ -1972,7 +1972,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.systempuri
 Package: com.nan.systempurificationx
 Version: 1.1-5
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, preferenceloader, firmware (<= 12.9)
 Conflicts: netskao.systempurification, com.nan.systempurification
 Provides: netskao.systempurificationx
@@ -1992,7 +1992,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.systempuri
 Package: com.nan.tetherme8
 Version: 1.2.3~arm64e-1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Pre-Depends: mobilesubstrate (>= 0.9.5101)
 Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | network-cmds
 Conflicts: net.tetherme.tetherme, net.tetherme.tetherme8
@@ -2014,7 +2014,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.tetherme/j
 Package: com.nan.togglow
 Version: 1.0.7
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: debs/com.nan.togglow_1.0.7_iphoneos-arm.deb
 Size: 355884
@@ -2029,7 +2029,7 @@ Name: Togglow
 Package: com.nan.tsssaver
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Pre-Depends: firmware (>=8.0)
 Depends: mobilesubstrate, net.limneos.libbulletin
 Filename: debs/com.nan.tsssaver_1.2_iphoneos-arm.deb
@@ -2048,7 +2048,7 @@ Sponsor: IArrays
 Package: com.nan.twig
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate
 Filename: debs/com.nan.twig_1.0.1_iphoneos-arm.deb
 Size: 7572
@@ -2063,7 +2063,7 @@ Name: Twig
 Package: com.nan.viola
 Version: 1.9.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Conflicts: com.bousrih.viola
 Provides: com.bousrih.viola
 Filename: debs/com.nan.viola_1.9.1_iphoneos-arm.deb
@@ -2081,7 +2081,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.theme/viol
 Package: com.nan.weathervane
 Version: 1.3.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: firmware (>=11.0), mobilesubstrate
 Filename: debs/com.nan.weathervane_1.3.0_iphoneos-arm.deb
 Size: 36036
@@ -2096,7 +2096,7 @@ Name: WeatherVane
 Package: com.nan.wechathelper
 Version: 1.4.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.nan.wechathelper_1.4.1_iphoneos-arm.deb
 Size: 55304
@@ -2111,7 +2111,7 @@ Name: WeChat Helper
 Package: com.nan.wechathelper
 Version: 2.1.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/com.nan.wechathelper_2.1.1_iphoneos-arm.deb
 Size: 121468
@@ -2128,7 +2128,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechathelp
 Package: com.nan.wechathookpro
 Version: 0.3-5
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, firmware (>= 9.0)
 Filename: debs/com.nan.wechathookpro_0.3-5_iphoneos-arm.deb
 Size: 1902922
@@ -2145,7 +2145,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechathook
 Package: com.nan.wechatpurification
 Version: 1.2-1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, preferenceloader
 Conflicts: netskao.wechatpurification, com.nan.wechatpurification-11
 Provides: netskao.wechatpurification, com.nan.wechatpurification-11
@@ -2164,7 +2164,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpuri
 Package: com.nan.wechatpurification-11
 Version: 1.1-3
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, preferenceloader
 Conflicts: netskao.wechatpurification
 Provides: netskao.wechatpurification
@@ -2183,7 +2183,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpuri
 Package: com.nan.wechatpurification-11
 Version: 1.1-4
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, preferenceloader
 Conflicts: netskao.wechatpurification
 Provides: netskao.wechatpurification
@@ -2202,7 +2202,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpuri
 Package: com.nan.wechatpurification-11
 Version: 1.1-5
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, preferenceloader
 Conflicts: netskao.wechatpurification
 Provides: netskao.wechatpurification
@@ -2221,7 +2221,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpuri
 Package: com.nan.wxtheme.puzzle
 Version: 0.1.0
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Filename: debs/com.nan.wxtheme.puzzle_0.1.0_iphoneos-arm.deb
 Size: 1621466
 MD5sum: b3b7f294e3443f96d9116c8f0f3d5a11
@@ -2237,7 +2237,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sutuplus/t
 Package: com.nan.wxtheme.puzzle
 Version: 0.1.1
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Filename: debs/com.nan.wxtheme.puzzle_0.1.1_iphoneos-arm.deb
 Size: 1433464
 MD5sum: 4ed91ac94e896ee8abe3277a96d531a1
@@ -2253,7 +2253,7 @@ Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sutuplus/t
 Package: com.nan.xkfilza
 Version: 0.0.1-23+debug
 Architecture: iphoneos-arm
-Maintainer: zhaonan
+Maintainer: takedwind
 Depends: mobilesubstrate, com.tigisoftware.filza | com.tigisoftware.filza64bit
 Filename: debs/com.nan.xkfilza_0.0.1-23+debug_iphoneos-arm.deb
 Size: 5748
