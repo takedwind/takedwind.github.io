@@ -14,9 +14,9 @@ SHA256: 5684d1911a00b7bed036875e0a63d1b181efa77e632eacd89a98228b72430782
 Section: Tweaks
 Description: 使用长按或者 3D Touch 菜单来清理桌面应用角标
 Author: isklikas
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.3dbadgeclear/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.3dbadgeclear/image.png
 Name: 3DBadgeClear
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.3dbadgeclear/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.3dbadgeclear/js.json
 
 Package: com.nan.a-bypass
 Version: 1.0.4
@@ -33,9 +33,9 @@ Description: 一款强力有效，设置简单的屏蔽越狱插件，
  能解决 iOS13 王者荣耀，使命召唤，和平精英等一些游戏的闪退，
  或用于支付宝开启指纹面容
 Author: Baw Appie
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.a-bypass/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.a-bypass/image.png
 Name: A-Bypass
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.a-bypass/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.a-bypass/js.json
 
 Package: com.nan.accent
 Version: 1.3.1
@@ -56,9 +56,9 @@ Description: macOS 风格的 iOS 强调色
 Author: Ivan Cristina <ivancristina5@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=accentDp
 Dev: ivancristina
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.accent/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.accent/image.png
 Name: Accent
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.accent/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.accent/js.json
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.nan.aential
@@ -73,9 +73,9 @@ SHA256: e728a5fb7dd1808af2187550e9663a75f65ba759f273c715e682b4f602612f5b
 Section: Themes
 Description: 基于 Sential 修改的主题
 Author: takedwind
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.theme/aential/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.theme/aential/image.png
 Name: Aential
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.theme/aential/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.theme/aential/js.json
 
 Package: com.nan.alipaysteps
 Version: 1.1
@@ -90,9 +90,9 @@ SHA256: be2b9693c7317ed41a3ce457fa71553224133de106f108cc28a0538cfc9df202
 Section: Tweaks
 Description: 支付宝自定义步数
 Author: Netskao <netskao@gmail.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.alipaysteps/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.alipaysteps/image.png
 Name: Alipay Steps
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.alipaysteps/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.alipaysteps/js.json
 
 Package: com.nan.appdatamanager
 Version: 1.5.1-10
@@ -109,9 +109,9 @@ SHA256: 6b1b62831566f7a15223541e1271316913f509e7125623dce103bb7cfaa6a82b
 Section: Utilities
 Description: 该工具为已安装的应用提供了擦除，备份，还原应用数据的方法
 Author: TIGI Software
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.appdatamanager/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.appdatamanager/image.png
 Name: Apps Manager
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appdatamanager/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.appdatamanager/js.json
 
 Package: com.nan.apppercent
 Version: 2.0.2
@@ -165,9 +165,9 @@ Priority: optional
 Description: 允许你在 iOS11-13.3.1 上的 AppStore 中降级/升级应用程序
 Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Icon: https://takedwind.github.io/repo/Depictions/Default/image_tweaks.png
 Name: AppStore++
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
 
 Package: com.nan.appstoreplusplus
 Version: 0.9.8-6
@@ -187,9 +187,9 @@ Priority: optional
 Description: 允许你在 iOS11-13.3.1 上的 AppStore 中降级/升级应用程序
 Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Icon: https://takedwind.github.io/repo/Depictions/Default/image_tweaks.png
 Name: AppStore++
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
 
 Package: com.nan.appstoreplusplus
 Version: 0.9.8-7
@@ -209,9 +209,9 @@ Priority: optional
 Description: 允许你在 iOS11-13.3.1 上的 AppStore 中降级/升级应用程序
 Author: CokePokes
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Icon: https://takedwind.github.io/repo/Depictions/Default/image_tweaks.png
 Name: AppStore++
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
 
 Package: com.nan.awemeautoplay
 Version: 1.0-1
@@ -227,9 +227,9 @@ Section: Tweaks
 Description: 抖音自动播放，支持最新版，无设置项
 Author: 7Loopy
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=awemeautoplayDp
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.awemeautoplay/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.awemeautoplay/image.png
 Name: Aweme AutoPlay
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemeautoplay/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.awemeautoplay/js.json
 
 Package: com.nan.awemeautoplay
 Version: 1.2-2
@@ -246,9 +246,9 @@ Section: Tweaks
 Description: 抖音短视频自动播放，支持最新版
 Author: Netskao <netskao@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=awemeautoplayDp
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.awemeautoplay/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.awemeautoplay/image.png
 Name: Aweme AutoPlay
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemeautoplay/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.awemeautoplay/js.json
 
 Package: com.nan.awemepurification
 Version: 1.2-3
@@ -265,9 +265,9 @@ Section: Tweaks
 Description: 抖音净化！支持 6.x - 8.x 版本、去水印，显示状态栏，保存长视频，保存不可下载视频，保存风险视频，去除启动广告，去除 4G 情况下网络提示弹窗，去除青少年提示弹窗！无设置选项
 Author: Netskao <netskao@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=awemepurificationDp
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.awemepurification/image.png
 Name: Aweme Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.awemepurification/js.json
 
 Package: com.nan.awemepurification
 Version: 1.3-1
@@ -284,9 +284,9 @@ Section: Tweaks
 Description: 抖音净化！支持 6.x - 8.x 版本、去水印，显示状态栏，保存长视频，保存不可下载视频，保存风险视频，去除启动广告，去除 4G 情况下网络提示弹窗，去除青少年提示弹窗！无设置选项
 Author: Netskao <netskao@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=awemepurificationDp
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.awemepurification/image.png
 Name: Aweme Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.awemepurification/js.json
 
 Package: com.nan.awemepurification
 Version: 1.3-2
@@ -303,9 +303,9 @@ Section: Tweaks
 Description: 抖音净化！支持 6.x - 8.x 版本、去水印，显示状态栏，保存长视频，保存不可下载视频，保存风险视频，去除启动广告，去除 4G 情况下网络提示弹窗，去除青少年提示弹窗！无设置选项
 Author: Netskao <netskao@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=awemepurificationDp
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.awemepurification/image.png
 Name: Aweme Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.awemepurification/js.json
 
 Package: com.nan.backgrounderaction12
 Version: 0.0.8
@@ -336,9 +336,9 @@ Section: Tweaks
 Description: 在控制中心添加 “Toggle Background Mode” 按钮。
 Author: akusio <akusio-report@neko2.net>
 Depiction: https://akusio.github.io/descriptions/backgrounderaction12/index.html
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.backgrounderaction12/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.backgrounderaction12/image.png
 Name: BackgrounderAction for CCSupport
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.backgrounderaction12/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.backgrounderaction12/js.json
 
 Package: com.nan.backgrounderaction13
 Version: 0.1.3
@@ -354,9 +354,9 @@ Section: Tweaks
 Description: 在控制中心添加 “Toggle Background Mode” 按钮。
 Author: akusio <akusio-report@neko2.net>
 Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.backgrounderaction13/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.backgrounderaction13/image.png
 Name: BackgrounderAction2 for CCSupport
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.backgrounderaction13/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.backgrounderaction13/js.json
 
 Package: com.nan.betterccxi
 Version: 1.6.0
@@ -372,9 +372,9 @@ SHA256: 4eaf59c102541a240eb837b5198ec433722f71d52f4ea8b7d086bd657836d31a
 Section: Tweaks
 Description: 控制中心模块增强！已整合天气
 Author: ATWiiks
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.betterccxi/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.betterccxi/image.png
 Name: BetterCCXI
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.betterccxi/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.betterccxi/js.json
 
 Package: com.nan.betterccxi-150
 Version: 1.5.0
@@ -390,9 +390,9 @@ SHA256: ff8b40dacc054eb2df03de138d37210fcaa0ce87f403bcb12e8f4ea69f4aec2d
 Section: Tweaks
 Description: 控制中心模块增强！已整合天气
 Author: ATWiiks
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.betterccxi/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.betterccxi/image.png
 Name: BetterCCXI (1.5.0)
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.betterccxi/js_150.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.betterccxi/js_150.json
 
 Package: com.nan.bfdecrypt
 Version: 1.3.1
@@ -423,9 +423,9 @@ SHA256: e72bc87d278bff1c400f40e1deacd826fa8009a598928520041e02e47a14dcbd
 Section: Tweaks
 Description: 全屏桌面文件夹,全屏毛玻璃特效
 Author: candoizo
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Icon: https://takedwind.github.io/repo/Depictions/Default/image_tweaks.png
 Name: Bolders
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bolders/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.bolders/js.json
 
 Package: com.nan.bootlogo.checkra1n
 Version: 0.1.0
@@ -439,9 +439,9 @@ SHA256: 82927b2db32deef7c9bc4392e9a272151f65b2cdc06960087ad7d04d04d6b122
 Section: Themes (Bootlogos)
 Description: 自定义启动 Logo 为 checkra1n 微标, 感谢 @Flipp3rrr 。
 Author: takedwind
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/image.png
 Name: checkra1n-Bootlogo
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/js.json
 
 Package: com.nan.bootlogo.checkra1n
 Version: 0.1.1
@@ -455,9 +455,9 @@ SHA256: 38270d90ab764894a350dfc99a054a3bbba7739d6917b9629074237ba83e6445
 Section: Themes (Bootlogos)
 Description: 自定义启动 Logo 为 checkra1n 微标, 感谢 @Flipp3rrr 。
 Author: takedwind
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/image.png
 Name: checkra1n-Bootlogo
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/js.json
 
 Package: com.nan.bounceit
 Version: 0.0.1
@@ -474,9 +474,9 @@ SHA256: 2d065b0945f3603b30db1b3da8bb21aea906aa8408087d9367688bbba0875406
 Section: Tweaks
 Description: 开启应用弹跳动画,使整个手机动画跳跃起来
 Author: Jake James
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Icon: https://takedwind.github.io/repo/Depictions/Default/image_tweaks.png
 Name: Bounce It
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bounceit/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.bounceit/js.json
 
 Package: com.nan.bounceit
 Version: 1.0.3
@@ -493,9 +493,9 @@ SHA256: 981842d2f9b34311875163890bc84a3e3b726376048ae0e25a0b3ca53fcd3334
 Section: Tweaks
 Description: 开启切换应用弹跳动画
 Author: Jake James
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Icon: https://takedwind.github.io/repo/Depictions/Default/image_tweaks.png
 Name: Bounce It
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bounceit/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.bounceit/js.json
 
 Package: com.nan.bounceit
 Version: 1.0.4
@@ -512,9 +512,9 @@ SHA256: d9ad31c08cb7a1fd0029f21716345e86365eef239b49e3358636d58d1ec8c762
 Section: Tweaks
 Description: 开启切换应用弹跳动画
 Author: Jake James
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Icon: https://takedwind.github.io/repo/Depictions/Default/image_tweaks.png
 Name: Bounce It
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bounceit/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.bounceit/js.json
 
 Package: com.nan.cocoatop64bit
 Version: 2.0.2-1+debug
@@ -529,9 +529,9 @@ SHA256: 078422e3048958a7d51440c08f3ff31306a146eb55c79ea171a632941d950369
 Section: Utilities
 Description: 一款查看当前进程,CPU使用率,查找高占用高耗电的 iOS 任务管理器
 Author: Domo
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.cocoatop/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.cocoatop/image.png
 Name: CocoaTop 64-bit
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cocoatop/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.cocoatop/js.json
 
 Package: com.nan.colorizeios
 Version: 0.0.1-47+debug
@@ -546,9 +546,9 @@ SHA256: 2005c944cfd74d01f6e473a589f755a77b1ab97dc0cd02b17d655a09afcdcd00
 Section: Tweaks
 Description: 对调用 AppleUI Kit 的所有界面都采用随机变色效果,由 Netskao 简易补设置图标
 Author: XCXiao
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Icon: https://takedwind.github.io/repo/Depictions/Default/image_tweaks.png
 Name: ColorizeiOS
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.colorizeios/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.colorizeios/js.json
 
 Package: com.nan.colorsios
 Version: 1.0.1
@@ -563,9 +563,9 @@ SHA256: 07af7e4f81d0eb8336e1ff02975ddf483c624b746650a9fa9585d6f45273a198
 Section: Tweaks
 Description: iOS13 全局随机颜色
 Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Icon: https://takedwind.github.io/repo/Depictions/Default/image_tweaks.png
 Name: Colors iOS
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.colorsios/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.colorsios/js.json
 
 Package: com.nan.conditionalwifi4
 Version: 1.0.0
@@ -615,9 +615,9 @@ Homepage: http://twitter.com/ijulioverne
 Description: 插件破解器
 Author: julioverne
 Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cracktool3
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.cracktool/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.cracktool/image.png
 Name: CrackTool3
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cracktool/js_3.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.cracktool/js_3.json
 
 Package: com.nan.cracktool4
 Version: 4.0~beta9c
@@ -636,9 +636,9 @@ Homepage: http://twitter.com/ijulioverne
 Description: 插件破解器
 Author: julioverne
 Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cracktool4
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.cracktool/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.cracktool/image.png
 Name: CrackTool4
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cracktool/js_4.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.cracktool/js_4.json
 
 Package: com.nan.crash-reporter
 Version: 1.16.0-1
@@ -711,9 +711,9 @@ Homepage: http://twitter.com/ijulioverne
 Description: Cydia 下载管理器 & 额外功能 !
 Author: julioverne <julioverne@me.com>
 Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.cydown/image.png
 Name: CyDown
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.cydown/js.json
 
 Package: com.nan.cydown-697
 Version: 6.9.7
@@ -732,9 +732,9 @@ Homepage: http://twitter.com/ijulioverne
 Description: Cydia 下载管理器 & 额外功能 !
 Author: julioverne <julioverne@me.com>
 Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.cydown/image.png
 Name: CyDown (6.9.7)
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/js_6.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.cydown/js_6.json
 
 Package: com.nan.cydown.zh-hans
 Version: 0.1.0
@@ -751,9 +751,9 @@ SHA256: f9f31cb5deeca9286c111d96f39b64091407131bb11c7145a2f273d02d987118
 Section: 汉化
 Description: 为 CyDown 提供简体中文
 Author: takedwind
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.cydown/image.png
 Name: zh-hans for CyDown
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.cydown/js_zh_hans.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.cydown/js_zh_hans.json
 
 Package: com.nan.darkshot
 Version: 0.1.0
@@ -771,9 +771,9 @@ Section: Tweaks
 Description: 加深屏幕截图的闪光颜色
 Author: Skitty
 Depiction: https://skitty.xyz/repo/depictions/?p=xyz.skitty.darkshot
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.darkshot/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.darkshot/image.png
 Name: DarkShot
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.darkshot/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.darkshot/js.json
 
 Package: com.nan.darkshot.zh-Hans
 Version: 0.1.0
@@ -789,9 +789,9 @@ SHA256: 8441f88ffeb28d5b43e0385539d33a1a857035f92ea3cbb4f7d1fccd567d3682
 Section: 汉化
 Description: 为 DarkShot 提供简体中文
 Author: takedwind
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.darkshot/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.darkshot/image.png
 Name: zh-hans for DarkShot
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.darkshot/js_zh_Hans.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.darkshot/js_zh_Hans.json
 
 Package: com.nan.datameter
 Version: 1.4-3
@@ -894,9 +894,9 @@ SHA256: 3d37b24cef1ba72963bb16ff70cad298647d63cf101e7249768e405fe3de80cb
 Section: Tweaks
 Description: 将下载应用程序的圆形下载进度条改为进度条
 Author: shepgoba
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Icon: https://takedwind.github.io/repo/Depictions/Default/image_tweaks.png
 Name: DownloadBar13
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.downloadbar13/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.downloadbar13/js.json
 
 Package: com.nan.duo
 Version: 1.0.5
@@ -975,9 +975,9 @@ SHA256: f809351eed94c83ac2efb72adf138a36c443d67003aee737307fd117f5a8159e
 Section: Utilities
 Description: iPhone, iPad, iPod Touch 的文件管理器
 Author: TIGI Software
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.filza/image.png
 Name: Filza File Manager
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.filza/js.json
 
 Package: com.nan.filza
 Version: 3.7.4-12
@@ -995,9 +995,9 @@ SHA256: edc5f8c6ad1d0a98a8ca1112ccfbe5521bf3f2dc36a5d80760577efb8f22d614
 Section: Utilities
 Description: iPhone, iPad, iPod Touch 的文件管理器
 Author: TIGI Software
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.filza/image.png
 Name: Filza File Manager
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.filza/js.json
 
 Package: com.nan.filza
 Version: 3.7.4-4
@@ -1015,9 +1015,9 @@ SHA256: 907165ca07aaf4122903f80817fc3256c4ae9e83ef00c9a47af5444a8568b66a
 Section: Utilities
 Description: iPhone, iPad, iPod Touch 的文件管理器
 Author: TIGI Software
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.filza/image.png
 Name: Filza File Manager
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.filza/js.json
 
 Package: com.nan.filza64bit
 Version: 3.7.3-16
@@ -1035,9 +1035,9 @@ SHA256: 64ea308d73b7cea0d06eee5b6931dab56f68229a026acf67e45ec8d6fa5cf6e6
 Section: Utilities
 Description: iPhone, iPad, iPod Touch 的文件管理器
 Author: TIGI Software
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.filza/image.png
 Name: Filza File Manager 64-bit
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js_64bit.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.filza/js_64bit.json
 
 Package: com.nan.filza64bit
 Version: 3.7.4-12
@@ -1055,9 +1055,9 @@ SHA256: 396b2392eee314344f580a401859e2adf553b70587b8c86d7a9e1d3bf6419614
 Section: Utilities
 Description: iPhone, iPad, iPod Touch 的文件管理器
 Author: TIGI Software
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.filza/image.png
 Name: Filza File Manager 64-bit
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js_64bit.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.filza/js_64bit.json
 
 Package: com.nan.filza64bit
 Version: 3.7.4-4
@@ -1075,9 +1075,9 @@ SHA256: a861d67dfb8ce3be4000d16c4665358710e790ab810cc6e06722ef385c872042
 Section: Utilities
 Description: iPhone, iPad, iPod Touch 的文件管理器
 Author: TIGI Software
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.filza/image.png
 Name: Filza File Manager 64-bit
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.filza/js_64bit.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.filza/js_64bit.json
 
 Package: com.nan.ft
 Version: 0.1.6
@@ -1091,10 +1091,10 @@ SHA1: 8cf3425c1275f3aa3204e912706de13fc9e9486c
 SHA256: ae5b469d66925b56eeaadbf2a6e081ed36a0fdce5e1c4d97493b160116237a40
 Section: Terminal_Support
 Description: 运行 ft 即可恢复默认字体。(只要默认快照还在)
-Author: takedwind <Invalidunit@icloud.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/image.png
+Author: takedwind <takedwind@icloud.com>
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.ft/image.png
 Name: ft
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.ft/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.ft/js.json
 
 Package: com.nan.goodwifi
 Version: 0.0~beta4
@@ -1128,9 +1128,9 @@ Homepage: http://ib-soft.net/icleaner
 Description: iOS 系统清理 & 优化
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.icleanerpro/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.icleanerpro/image.png
 Name: iCleaner Pro
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.icleanerpro/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.icleanerpro/js.json
 
 Package: com.nan.icleanerpro-crack
 Version: 7.8.0
@@ -1149,9 +1149,9 @@ Homepage: http://ib-soft.net/icleaner
 Description: iOS 系统清理 & 优化
 Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.icleanerpro/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.icleanerpro/image.png
 Name: iCleaner Pro Crack
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.icleanerpro/js_crack.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.icleanerpro/js_crack.json
 
 Package: com.nan.ioshelper12
 Version: 1.4.0
@@ -1212,10 +1212,10 @@ SHA256: b138d6dacb9b85ba65ca0f5451bfb4810ce06787b912ecc1a0152a0d508d9ae4
 Section: Tweaks
 Description: 一个漂亮的锁屏插件
 Author: ubik <cydia@ubikstyl.es>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.kalm/image.png
 Name: Kalm
 Procides: hi.my.name.is.ubik.kalm
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.kalm/js.json
 
 Package: com.nan.kalm
 Version: 1.2.2
@@ -1231,10 +1231,10 @@ SHA256: b2140c71e81f21179029def167297c2c181b971ef7755e0d745dc8995122053d
 Section: Tweaks
 Description: 一个漂亮的锁屏插件
 Author: ubik <cydia@ubikstyl.es>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.kalm/image.png
 Name: Kalm
 Procides: hi.my.name.is.ubik.kalm
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.kalm/js.json
 
 Package: com.nan.kalm.zh-Hans
 Version: 0.1.0
@@ -1250,9 +1250,9 @@ SHA256: 92c40f70295c03f82342c0c14f6d0a29242814fb13e22fa7a97e9a874cd3fa16
 Section: 汉化
 Description: 为 Kalm 提供简体中文
 Author: takedwind
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.kalm/image.png
 Name: zh-hans for Kalm
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js_zh_Hans.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.kalm/js_zh_Hans.json
 
 Package: com.nan.kalm.zh-Hans
 Version: 0.1.1
@@ -1268,9 +1268,9 @@ SHA256: 6eb9d9ee40f7c71249abb094b86467f103832840ffccb557e3cdf53ccafc794a
 Section: 汉化
 Description: 为 Kalm 提供简体中文
 Author: takedwind
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.kalm/image.png
 Name: zh-hans for Kalm
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.kalm/js_zh_Hans.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.kalm/js_zh_Hans.json
 
 Package: com.nan.libertylite
 Version: 0.2.11
@@ -1304,9 +1304,9 @@ SHA256: 3af28b4050fa5b391d82236eaec1249a6d00955a7b82f731256fb7576754fd01
 Section: Tweaks
 Description: 适用于 iOS 13 的 iPhone X 手势
 Author: Ryan Nair
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.little11/image.png
 Name: Little11
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.little11/js.json
 
 Package: com.nan.little11
 Version: 1.2.0
@@ -1324,9 +1324,9 @@ SHA256: 8d560d40a5b9773d179b38b2d363d2d0ff9d4c0d33bd012e7b46a215245a5604
 Section: Tweaks
 Description: 适用于 iOS 13 的 iPhone X 手势
 Author: Ryan Nair
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.little11/image.png
 Name: Little11
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.little11/js.json
 
 Package: com.nan.little11.zh-Hans
 Version: 0.1.1
@@ -1342,9 +1342,9 @@ SHA256: 00f3e5c689cb3f3da93c98fb6641dd5b442a82b5c885ace74345b3164bc5a50c
 Section: 汉化
 Description: 为 Little11 提供简体中文
 Author: takedwind
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.little11/image.png
 Name: zh-hans for Little11
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.little11/js_zh_Hans.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.little11/js_zh_Hans.json
 
 Package: com.nan.localhostssh
 Version: 0.0.1
@@ -1374,9 +1374,9 @@ SHA256: a8b4d348d87693ebfde0999d514e9a9b06d9b3dfa15ec91ae29f7f3de8c746c8
 Section: System
 Description: 为 iOS 本地主机 SSH 访问启用 2222 端口
 Author: takedwind
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.localhostssh/image.png
 Name: Local SSH
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.localhostssh/js.json
 
 Package: com.nan.localhostssh10
 Version: 0.1.0
@@ -1391,9 +1391,9 @@ SHA256: bdc716778f4676f2ba2b80c7e0afbcc18c5aff3f4e3b84590d1ec666b69e974e
 Section: System
 Description: 为 iOS 本地主机 SSH 访问启用 2222 端口
 Author: takedwind
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.localhostssh/image.png
 Name: Local SSH (7-10)
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.localhostssh/js_10.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.localhostssh/js_10.json
 
 Package: com.nan.localiapstore
 Version: 1.4-4
@@ -1408,9 +1408,9 @@ SHA256: 9014c22c5a0095735aad55f0632255230f9ce41a71a0b70952595d66aff97062
 Section: Tweaks
 Description: 不错的内购破解
 Author: PanguTeam
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.localiapstore/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.localiapstore/image.png
 Name: LocalIAPStore
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.localiapstore/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.localiapstore/js.json
 
 Package: com.nan.nodndbanner
 Version: 0.0.1
@@ -1425,9 +1425,9 @@ SHA256: b528411929d5f9b22a11053a982b000f84f5e5ea589bbd08d28e2dcbe84a3c81
 Section: Tweaks
 Description: 屏蔽勿扰模式下的锁屏横幅
 Author: MrGcGamer
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.nodndbanner/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.nodndbanner/image.png
 Name: NoDNDBanner
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.nodndbanner/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.nodndbanner/js.json
 
 Package: com.nan.openccmm
 Version: 0.1.2
@@ -1442,9 +1442,9 @@ SHA256: 81ae21c2f1cb0eeae7b0d4c553737b77eaf6bfed933606d8d9d3931f8b1437ab
 Section: System
 Description: 激活原生 iPhone 控制中心静音模块，安装后未激活越狱也生效
 Author: takedwind
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.openccmm/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.openccmm/image.png
 Name: Activation CC MuteModule
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.openccmm/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.openccmm/js.json
 
 Package: com.nan.pencilchargingindicator
 Version: 1.2~b5
@@ -1490,9 +1490,9 @@ Section: Tweaks
 Description: 移植 iPadPro 的 ApplePencli 充电动画
 Author: shiftcmdk
 Depiction: https://shiftcmdk.github.io/repo/depictions/?p=com.shiftcmdk.pencilchargingindicator
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.pencilchargingindicator/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.pencilchargingindicator/image.png
 Name: PencilChargingIndicator
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.pencilchargingindicator/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.pencilchargingindicator/js.json
 
 Package: com.nan.plutil
 Version: 0.2.1
@@ -1531,9 +1531,9 @@ Description: 一种更好的多任务!
 Author: c1d3r <c1d3rdev@gmail.com>
 Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.pulloverpro
 Dev: c1d3r <c1d3rdev@gmail.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpro/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.pulloverpro/image.png
 Name: PullOver Pro
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpro/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.pulloverpro/js.json
 
 Package: com.nan.pulloverpro
 Version: 2.1
@@ -1553,9 +1553,9 @@ Description: 一种更好的多任务!
 Author: c1d3r <c1d3rdev@gmail.com>
 Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.pulloverpro
 Dev: c1d3r <c1d3rdev@gmail.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpro/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.pulloverpro/image.png
 Name: PullOver Pro
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpro/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.pulloverpro/js.json
 
 Package: com.nan.pulloverpro.zh-Hans
 Version: 0.1.0
@@ -1571,9 +1571,9 @@ SHA256: b33529e94e921e3cf035a355b0ae9b2b7b382c61c786441421b6995c0a38d642
 Section: 汉化
 Description: 为 PullOver Pro 提供简体中文
 Author: takedwind
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpro/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.pulloverpro/image.png
 Name: zh-hans for PullOver Pro
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.pulloverpro/js_zh_Hans.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.pulloverpro/js_zh_Hans.json
 
 Package: com.nan.qqanitirecallhook
 Version: 0.1-1
@@ -1618,9 +1618,9 @@ SHA256: f6cf499dce2fc0370c9c91e5558c40f9539a3ddcba8f624a354747e84da0c718
 Section: Tweaks
 Description: QQ 和 TIM 增强，抢红包，虚拟机型破解版
 Author: 7Loopy
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqprocrack/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.qqprocrack/image.png
 Name: QQ Pro Crack
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqprocrack/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.qqprocrack/js.json
 
 Package: com.nan.qqpurification
 Version: 1.1-3
@@ -1635,9 +1635,9 @@ SHA256: cf93cc098255e3580e7ebb9ecfb617c305759e2b94abc0f67bea7509173a0d99
 Section: Tweaks
 Description: QQ 净化！还原聊天本质，给你一个干净的 QQ。
 Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.qqpurification/image.png
 Name: QQ Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.qqpurification/js.json
 
 Package: com.nan.qqpurification
 Version: 1.1-5
@@ -1652,9 +1652,9 @@ SHA256: 3dc3d6ce6c9894f2b0beda603e4b04ccfeca08d888174a82409329f59964a579
 Section: Tweaks
 Description: QQ 净化！还原聊天本质，给你一个干净的 QQ。
 Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.qqpurification/image.png
 Name: QQ Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.qqpurification/js.json
 
 Package: com.nan.respring.xr
 Version: 0.1.1
@@ -1668,9 +1668,9 @@ SHA256: b985b2b39e13a8760a8614bdfd6709c1d4227338706b3fc5756436fd9a280a24
 Section: Themes (Respring)
 Description: 漂亮的 XR 注销动画
 Author: takedwind
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.respring.xr/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.respring.xr/image.png
 Name: iPhone XR 注销图标
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.respring.xr/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.respring.xr/js.json
 
 Package: com.nan.rootfs
 Version: 0.1.3
@@ -1688,9 +1688,9 @@ Description: rootfs && 重建缓存
  SSH 卸载可撤销
  SSH 运行 urootfs 也可以撤销
 Author: takedwind
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.rootfs/image.png
 Name: rootfs
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.rootfs/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.rootfs/js.json
 
 Package: com.nan.setwallpaper
 Version: 0.1.2
@@ -1705,9 +1705,9 @@ SHA256: 26b7ce69bdbad3b7d5bdeff6f76e03e7aa71e3f8392e16407ba9f0e02dadb50d
 Section: System
 Description: 为光暗模式分别自定义壁纸
 Author: MichaelMKenny
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.setwallpaper/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.setwallpaper/image.png
 Name: Set Wallpaper
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.setwallpaper/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.setwallpaper/js.json
 
 Package: com.nan.setwallpaper
 Version: 0.1.3
@@ -1722,9 +1722,9 @@ SHA256: baadcae718ec7f14bd823d4a75bc8e4dd94bb78aff9e5598a12f6257b7ccfa99
 Section: System
 Description: 为光暗模式分别自定义壁纸
 Author: MichaelMKenny
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.setwallpaper/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.setwallpaper/image.png
 Name: Set Wallpaper
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.setwallpaper/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.setwallpaper/js.json
 
 Package: com.nan.showtouch
 Version: 1.0.4
@@ -1739,9 +1739,9 @@ SHA256: 560578d34576e7b70aff7ded405cd9b3eb91966a10627c7fbe92466b22a8d42d
 Section: Tweaks
 Description: 触摸指示器！可开启仅录屏时显示。
 Author: LonestarX
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.showtouch/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.showtouch/image.png
 Name: ShowTouch
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.showtouch/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.showtouch/js.json
 
 Package: com.nan.shuffle
 Version: 1.0.4
@@ -1774,9 +1774,9 @@ SHA256: a6e8560175cc6bbc9edb792cf8c060045b2caa81da819c8a0ee20031988c8d9b
 Section: Tweaks
 Description: 从键盘上删除听写按钮。
 Author: Soh Satoh
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.shutup/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.shutup/image.png
 Name: ShutUp
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.shutup/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.shutup/js.json
 
 Package: com.nan.shynotifications
 Version: 0.0.1-2
@@ -1806,9 +1806,9 @@ SHA256: cc7eaf5202f041a2dbdcd7596da99f52fbcd7d6d0956d4b7cb08a6000fd5df6e
 Section: 汉化
 Description: 为 Sileo 提供简体中文
 Author: takedwind
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.sileo.zh-Hans/image.png
 Name: zh-hans for Sileo
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.sileo.zh-Hans/js.json
 
 Package: com.nan.sileo.zh-Hans
 Version: 0.2.0
@@ -1823,9 +1823,9 @@ SHA256: 8ef44d1e61e403cf8584b94ba00f7094f88229498fe3e13ffc2c84cae124e678
 Section: 汉化
 Description: 为 Sileo 提供简体中文
 Author: takedwind
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.sileo.zh-Hans/image.png
 Name: zh-hans for Sileo
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileo.zh-Hans/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.sileo.zh-Hans/js.json
 
 Package: com.nan.sileopurification
 Version: 1.1-1
@@ -1840,9 +1840,9 @@ SHA256: b7319c054c88d28e5978897a8c781a241414463c67c6c62f0d7d76996bc2dc7e
 Section: Tweaks
 Description: Sileo 净化，开启后台下载，去烦人广告横幅，关闭危险源检测
 Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sileopurification/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.sileopurification/image.png
 Name: Sileo Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sileopurification/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.sileopurification/js.json
 
 Package: com.nan.sleepanywhere
 Version: 1.0.0
@@ -1912,9 +1912,9 @@ Description: 微信主题管理器
 Author: Carby <super.cat.rabbit@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sutuplusDp
 Dev: carby
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Icon: https://takedwind.github.io/repo/Depictions/Default/image_tweaks.png
 Name: SutuPLUS
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sutuplus/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.sutuplus/js.json
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.nan.swipeselection
@@ -1945,9 +1945,9 @@ SHA256: 762b0e77f8acfd7e625566f956f76f85d39ae728783b4c8057d17a1439cdad79
 Section: Tweaks
 Description: 系统信息查看增强
 Author: ARX8x
-Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
+Icon: https://takedwind.github.io/repo/Depictions/Default/image_tweaks.png
 Name: System Info
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.systeminfo/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.systeminfo/js.json
 
 Package: com.nan.systempurification
 Version: 1.4-6
@@ -1965,9 +1965,9 @@ Section: Tweaks
 Description: 一些微小的改变，给你带来更好的体验
  此版本不支持 X 以上设备，X 以下机型专用
 Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.systempurification/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.systempurification/image.png
 Name: System Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.systempurification/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.systempurification/js.json
 
 Package: com.nan.systempurificationx
 Version: 1.1-5
@@ -1985,9 +1985,9 @@ Section: Tweaks
 Description: 一些微小的改变，给你带来更好的体验
  此版本 X 以上机型专用
 Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.systempurification/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.systempurification/image.png
 Name: System Purification X
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.systempurification/js_x.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.systempurification/js_x.json
 
 Package: com.nan.tetherme8
 Version: 1.2.3~arm64e-1
@@ -2007,9 +2007,9 @@ Section: Networking
 Description: 动态启用 iOS8 + 设备的本机网络共享。这应该适用于任何运营商而无需定制捆绑或首选项。
 Author: Sam Bingner
 Depiction: http://repo.tetherme.net/net.tetherme.tetherme8.html
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.tetherme/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.tetherme/image.png
 Name: TetherMe
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.tetherme/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.tetherme/js.json
 
 Package: com.nan.togglow
 Version: 1.0.7
@@ -2040,9 +2040,9 @@ SHA256: f664dae4d016e3a1d451cea17a8d4b5c54ad9cd837d460725355620a1ca2333c
 Section: Utilities
 Description: 一个方便备份 SHSH2 的工具
 Author: IArrays <support@iarrays.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.tsssaver/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.tsssaver/image.png
 Name: TSS Saver (modify)
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.tsssaver/js_modify.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.tsssaver/js_modify.json
 Sponsor: IArrays
 
 Package: com.nan.twig
@@ -2074,9 +2074,9 @@ SHA256: a266dcd6d90c9132202c4de1dad8d44e42cabd6fa0fcfaec4cfc0ad16aa12c8e
 Section: Themes
 Description: 一个美丽，简单而现代的主题
 Author: Bousrih <bousrih20@gmail.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.theme/viola/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.theme/viola/image.png
 Name: Viola
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.theme/viola/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.theme/viola/js.json
 
 Package: com.nan.weathervane
 Version: 1.3.0
@@ -2121,9 +2121,9 @@ SHA256: 07c57a7a8cc2109d3db5d192fb5042bd47c0bccc044eb873eb98ae8ca172fe1a
 Section: Tweaks
 Description: 微信助手,可与 WeChatHookPro 一起用
 Author: iBreak
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.wechathelper/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.wechathelper/image.png
 Name: WeChat Helper
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechathelper/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.wechathelper/js.json
 
 Package: com.nan.wechathookpro
 Version: 0.3-5
@@ -2138,9 +2138,9 @@ SHA256: 50963b2fbdb8c2e808d19d71bb3893896374745337b6f1ddbabfe30620d868c6
 Section: Tweaks
 Description: 微信辅助
 Author: Mao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.wechathookpro/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.wechathookpro/image.png
 Name: WeChatHookPro
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechathookpro/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.wechathookpro/js.json
 
 Package: com.nan.wechatpurification
 Version: 1.2-1
@@ -2157,9 +2157,9 @@ SHA256: 1c70bac43f411d15d0fdf826c4b666da2cd1ff15d86b52828a1b8ba144c91346
 Section: Tweaks
 Description: 微信净化！还原聊天本质，给你一个干净的微信
 Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.wechatpurification/image.png
 Name: WeChat Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.wechatpurification/js.json
 
 Package: com.nan.wechatpurification-11
 Version: 1.1-3
@@ -2176,9 +2176,9 @@ SHA256: 3a37fb14ccdab950a7604ca488afc542386b549c10f554f1c9e66c0aab226c62
 Section: Tweaks
 Description: 微信净化！还原聊天本质，给你一个干净的微信
 Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.wechatpurification/image.png
 Name: WeChat Purification (1.1-x)
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/js_11x.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.wechatpurification/js_11x.json
 
 Package: com.nan.wechatpurification-11
 Version: 1.1-4
@@ -2195,9 +2195,9 @@ SHA256: b9bac40d239df403405ac2b45474a0e060c8bef9fc8cfe532983271626499023
 Section: Tweaks
 Description: 微信净化！还原聊天本质，给你一个干净的微信
 Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.wechatpurification/image.png
 Name: WeChat Purification (1.1-x)
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/js_11x.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.wechatpurification/js_11x.json
 
 Package: com.nan.wechatpurification-11
 Version: 1.1-5
@@ -2214,9 +2214,9 @@ SHA256: 6f15354d6b2bfc9ca898c282179dd70f9017d410debb828129dc5b424d117dbb
 Section: Tweaks
 Description: 微信净化！还原聊天本质，给你一个干净的微信
 Author: Netskao
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.wechatpurification/image.png
 Name: WeChat Purification (1.1-x)
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.wechatpurification/js_11x.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.wechatpurification/js_11x.json
 
 Package: com.nan.wxtheme.puzzle
 Version: 0.1.0
@@ -2230,9 +2230,9 @@ SHA256: 32232a87d65f5deaaad644dc0c6046817b9c1008004217cf5501150e74e73f4b
 Section: Themes (WeChat)
 Description: 由苏兔制作的微信主题 Puzzle
 Author: Carby
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sutuplus/theme/puzzle/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.sutuplus/theme/puzzle/image.png
 Name: Puzzle
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sutuplus/theme/puzzle/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.sutuplus/theme/puzzle/js.json
 
 Package: com.nan.wxtheme.puzzle
 Version: 0.1.1
@@ -2246,9 +2246,9 @@ SHA256: 5113ad226a879ab7f3fcfe1b26eade042e18e76afda4afc6907229cb5716c735
 Section: Themes (WeChat)
 Description: 由苏兔制作的微信主题 Puzzle
 Author: Carby
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sutuplus/theme/puzzle/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.sutuplus/theme/puzzle/image.png
 Name: Puzzle
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sutuplus/theme/puzzle/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.sutuplus/theme/puzzle/js.json
 
 Package: com.nan.xkfilza
 Version: 0.0.1-23+debug
@@ -2263,7 +2263,7 @@ SHA256: 5008a8e8c484cb490c6af949c0b5bba66b901b546af016e8fecd836cbead8d17
 Section: Tweaks
 Description: Filza 伪装序列号破解
 Author: xia0z
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.xkfilza/image.png
+Icon: https://takedwind.github.io/repo/Depictions/com.nan.xkfilza/image.png
 Name: xkFilza
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.xkfilza/js.json
+Sileodepiction: https://takedwind.github.io/repo/Depictions/com.nan.xkfilza/js.json
 

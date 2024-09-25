@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://Invalidunit.github.io/repo/Depictions/Default/top.png",
+    "headerImage": "https://takedwind.github.io/repo/Depictions/Default/top.png",
     "tintColor": "#1EDF5B",
     "minVersion": "0.3",
     "tabs": [
@@ -21,39 +21,39 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_01.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_02.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_02.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_03.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_03.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_04.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_04.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_05.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_05.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_06.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_06.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_07.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_07.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_08.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_08.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_09.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.wechathookpro/Screenshot_09.png"
                         }
                     ]
                 },
@@ -103,7 +103,7 @@
                     "spacing": 40
                 },
                 {
-                    "URL": "https://Invalidunit.github.io/repo/CydiaIcon.png",
+                    "URL": "https://takedwind.github.io/repo/CydiaIcon.png",
                     "alignment": 1,
                     "class": "DepictionImageView",
                     "cornerRadius": 0,

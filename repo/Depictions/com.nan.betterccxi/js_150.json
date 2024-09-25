@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://Invalidunit.github.io/repo/Depictions/Default/top.png",
+    "headerImage": "https://takedwind.github.io/repo/Depictions/Default/top.png",
     "tintColor": "#B775AC",
     "minVersion": "0.3",
     "tabs": [
@@ -21,31 +21,31 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.betterccxi/Screenshot_01.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.betterccxi/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.betterccxi/Screenshot_02.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.betterccxi/Screenshot_02.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.betterccxi/Screenshot_03.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.betterccxi/Screenshot_03.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.betterccxi/Screenshot_04.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.betterccxi/Screenshot_04.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.betterccxi/Screenshot_05.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.betterccxi/Screenshot_05.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.betterccxi/Screenshot_06.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.betterccxi/Screenshot_06.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.betterccxi/Screenshot_07.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.betterccxi/Screenshot_07.png"
                         }
                     ]
                 },
@@ -113,7 +113,7 @@
                     "spacing": 40
                 },
                 {
-                    "URL": "https://Invalidunit.github.io/repo/CydiaIcon.png",
+                    "URL": "https://takedwind.github.io/repo/CydiaIcon.png",
                     "alignment": 1,
                     "class": "DepictionImageView",
                     "cornerRadius": 0,

@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://Invalidunit.github.io/repo/Depictions/Default/top.png",
+    "headerImage": "https://takedwind.github.io/repo/Depictions/Default/top.png",
     "tintColor": "#F9AE08",
     "minVersion": "0.3",
     "tabs": [
@@ -21,19 +21,19 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/Screenshot_01.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.qqpurification/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/Screenshot_02.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.qqpurification/Screenshot_02.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/Screenshot_03.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.qqpurification/Screenshot_03.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.qqpurification/Screenshot_04.png"
+                            "url": "https://takedwind.github.io/repo/Depictions/com.nan.qqpurification/Screenshot_04.png"
                         }
                     ]
                 },
@@ -89,7 +89,7 @@
                     "spacing": 40
                 },
                 {
-                    "URL": "https://Invalidunit.github.io/repo/CydiaIcon.png",
+                    "URL": "https://takedwind.github.io/repo/CydiaIcon.png",
                     "alignment": 1,
                     "class": "DepictionImageView",
                     "cornerRadius": 0,
