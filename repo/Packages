@@ -1,0 +1,32 @@
+Package: site.qinyong.haoniu
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: qinyong
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/site.qinyong.haoniu_0.0.1_iphoneos-arm64.deb
+Size: 2316
+MD5sum: e9bdc2b623cfc71812abb376dcc3b7de
+SHA1: 63bbc43997a1d96999314c9398d9da63d9d0793a
+SHA256: 957a31e4520ee71937873df9e14db820aefd3a7a8141713475ecd244412405dd
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: qinyong
+Name: haoniu
+
+Package: site.qinyong.haoniu
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: qinyong
+Installed-Size: 56
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/site.qinyong.haoniu_0.0.1_iphoneos-arm.deb
+Size: 2230
+MD5sum: b585790738ed12c04c68f5c7131c41d2
+SHA1: d8d25da4f9b43eae7388c6f698bd186ea2c995bf
+SHA256: 76cf0a466f765a2a05598743129adfa545d399ef074f4ed8c34827f9f54ddf35
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: qinyong
+Name: haoniu
+

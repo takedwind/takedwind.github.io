@@ -1,0 +1,12 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+        {
+            "title": "haoniu",
+            "package": "site.qinyong.haoniu",
+            "url": "https://takedwind.github.io/repo/assets/batteryhealthenabler.png"
+        }
+    ]
+}
