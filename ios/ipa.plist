@@ -16,13 +16,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                     <string>com.meb.saveMoney</string>
+                     <string>com.meb.oa</string>
                      <key>bundle-version</key>
-                    <string>11.5.0</string>
+                    <string>1.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>美呗医美</string>
+                    <string>美呗智狐</string>
                 </dict>
             </dict>
         </array>
